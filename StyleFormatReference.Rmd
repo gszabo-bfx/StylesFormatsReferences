@@ -3,11 +3,32 @@ title: "Styles Formats References"
 output: pdf_document
 date: "2025-01-19"
 bibliography: example_references.bib
+csl: biomed-central.csl
 ---
 
+## reference into text Insert 
 
 This is a simple text to insert a bibliography key. Let's insert the key here: @R-base, hope we can see.
 
+## place reference list in specific location
+
+To place Reference list into a specific location:
+put 
+
+\<div id="refs"></div\>
+
+## Change reference format
+
+To change the format of the references, use file 
+
+biomed-central.csl
+
+and insert "csl: biomed-central.csl" into YAML header
+
+
+# References
+
+<div id="refs"></div>
 
 ```{r }
 
