@@ -2,7 +2,16 @@
 title: "Styles Formats References"
 output: pdf_document
 date: "2025-01-19"
+bibliography: example_references.bib
 ---
+
+
+This is a simple text to insert a bibliography key. Let's insert the key here: @R-base, hope we can see.
+
+
+```{r }
+
+```
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
