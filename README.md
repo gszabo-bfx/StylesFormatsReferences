@@ -13,6 +13,14 @@ RStudio gui recommended
 
 </header>
 
+Source:
+_[Bookdown users guide](https://bookdown.org/yihui/rmarkdown-cookbook/bibliography.html)_
+
+
 ## Step 1: Create an empty RMD document
 
-## Step 2: Insert reference
+## Step 2 file.bib
+
+### Create  a bibliography file (file-name.bib)
+
+
