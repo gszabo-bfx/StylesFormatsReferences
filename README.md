@@ -25,3 +25,5 @@ _[Bookdown users guide](https://bookdown.org/yihui/rmarkdown-cookbook/bibliograp
 
 
 **Need improvement**
+
+Some additional comment added from local repo with Rstudio
